@@ -4,33 +4,33 @@ This repository contains the Python source code for the "Cryptography Design & A
 
 Ciphers Implemented
 
-Stream Cipher: vortex_stream_cipher.py (Named: VorTexStreamCipher)
+Stream Cipher: VorTexStream.py
 
-Block Cipher: sbc_block_cipher.py (Named: IronClaDBlockCipher)
+Block Cipher: IronClaDBlock.py
 
 How to Run
 
 Each file is a self-contained Python program that includes its own interactive demo.
 
-1. Run the Stream Cipher (VorTexStreamCipher)
+1. Run the Stream Cipher (VorTexStream)
 
 Navigate to the directory and run:
 
-python vortex_stream_cipher.py
+python VorTexStream.py
 
 
 (If the command above doesn't work, you may need to use python3)
 
-python3 vortex_stream_cipher.py
+python3 VorTexStream.py
 
 
 2. Run the Block Cipher (IronClaDBlockCipher)
 
 Navigate to the directory and run:
 
-python sbc_block_cipher.py
+python IronClaDBlock.py
 
 
 (If the command above doesn't work, you may need to use python3)
 
-python3 sbc_block_cipher.py
+python3 IronClaDBlock.py
